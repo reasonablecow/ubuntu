@@ -8,6 +8,7 @@
 .config/gnome-initial-setup-done
 .config/gtk-3.0/bookmarks
 .config/ibus/bus/
+.config/nvim/
 .config/pulse/cookie
 .config/tiling-assistant/tiledSessionRestore.json
 .config/ubuntu-xdg-terminals.list
