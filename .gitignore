@@ -1,5 +1,6 @@
 .bash_history
 .cache/
+.cargo/
 .config/.gsd-keyboard.settings-ported
 .config/BraveSoftware/Brave-Browser/
 .config/GNOME-xdg-terminals.list
@@ -20,6 +21,7 @@
 .pki/
 .python_history
 .rnd
+.rustup/
 .ssh/
 .sudo_as_admin_successful
 Desktop/
