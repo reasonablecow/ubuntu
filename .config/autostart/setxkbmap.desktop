@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=setxkbmap -option caps:swapescape
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Remap Esc Key
+Name=Remap Esc Key
+Comment[en_US]=swap caps lock and escape keys
+Comment=swap caps lock and escape keys
