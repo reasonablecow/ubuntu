@@ -1,6 +1,7 @@
 .bash_history
 .cache/
 .config/.gsd-keyboard.settings-ported
+.config/BraveSoftware/Brave-Browser/
 .config/GNOME-xdg-terminals.list
 .config/dconf/user
 .config/evolution/sources/system-proxy.source
@@ -14,6 +15,8 @@
 .gnupg/
 .lesshst
 .local/
+.netrc
+.pki/
 .python_history
 .rnd
 .ssh/
